@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/aee0c607-929a-4aa4-a72e-7db6e8538d42)
 # Hi there, I’m JuanBM0308 👾
 
 **Backend Developer | Java & Spring Amateur**
