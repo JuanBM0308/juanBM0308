@@ -1,4 +1,4 @@
-# Hi there, I’m JuanBM0308 👋
+# Hi there, I’m JuanBM0308 👾
 
 **Backend Developer | Java & Spring Amateur**
 
