@@ -14,12 +14,6 @@
 - **AWS** | **Azure**
 - Results-focused & passionate about backend craftsmanship
 
-## 🚀 Featured Projects
-- [Sunny bank api](https://github.com/JuanBM0308/Sunnybank-api)
-- [spring-microservices-auth-oauth2-jwt](https://github.com/JuanBM0308/spring-microservices-auth-oauth2-jwt)
-- [TheSalesGalleon](https://github.com/JuanBM0308/TheSalesGalleon)
-- [Currency-converter](https://github.com/JuanBM0308/currency-converter)
-
 ## 🔐 What Drives Me
 > “I’m passionate about how data flows behind the scenes, how APIs power great user experiences, and how security keeps everything running smoothly. I enjoy building smart, robust solutions that make a difference.”
 
