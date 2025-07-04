@@ -15,7 +15,7 @@
 - Results-focused & passionate about backend craftsmanship
 
 ## 🚀 Featured Projects
-- [Sunny bank api](https://github.com/JuanBM0308/sunny-bank-api)
+- [Sunny bank api](https://github.com/JuanBM0308/Sunnybank-api)
 - [spring-microservices-auth-oauth2-jwt](https://github.com/JuanBM0308/spring-microservices-auth-oauth2-jwt)
 - [TheSalesGalleon](https://github.com/JuanBM0308/TheSalesGalleon)
 - [Currency-converter](https://github.com/JuanBM0308/currency-converter)
